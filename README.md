@@ -8,7 +8,7 @@ Graduating: **2027**
 ---
 * Well rounded professional with 15+ years of leadership and project management experience, now pursuing a career in full stack Software Engineering.  
 * Ability to thrive under pressure and deliver results within tight deadlines.  
-* Skilled in Java and C++
+* Experience with Java, Python, and C++
 * Experience in web design, database management, and Agile team collaboration.  
 * Passionate about innovation, problem-solving, and applying my technical expertise to real-world challenges in aerospace, defense, and cutting-edge technology.   
 ---
