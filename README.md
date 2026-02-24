@@ -10,7 +10,8 @@ Graduating: **2027**
 * Ability to thrive under pressure and deliver results within tight deadlines.  
 * Experience with Java, Python, and C++
 * Experience in web design, database management, and Agile team collaboration.  
-* Passionate about innovation, problem-solving, and applying my technical expertise to real-world challenges in aerospace, defense, and cutting-edge technology.   
+* Passionate about innovation, problem-solving, and applying my technical expertise to real-world challenges in aerospace, defense, and cutting-edge technology. 
+* Looking for any research or internship opportunity for Summer of 26'  
 ---
 ## Current projects:  
 [2D RPG game](https://github.com/BusterShrugz/2D_RPG)  
