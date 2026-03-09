@@ -14,11 +14,13 @@ Graduating: **2027**
 * Looking for any research or internship opportunity for Summer of 26'  
 ---
 ## Current projects:  
+[Spectra Analysis Application](https://github.com/BusterShrugz/spectraApplication)   
 [2D RPG game](https://github.com/BusterShrugz/2D_RPG)  
 [Warhammer 40k RPG -Text Based-](https://github.com/BusterShrugz/RPG_40K_FINAL_TEXT_BASED)
 
 ## Finished Projects:  
-[IoT Mobile AiO Medical Station](https://github.com/BusterShrugz/370Project-Nano33IoT)
+[IoT Mobile AiO Medical Station](https://github.com/BusterShrugz/370Project-Nano33IoT)  
+[Personal Portfolio WebSite](https://reeseedens.dev)
 
 
 <!--
