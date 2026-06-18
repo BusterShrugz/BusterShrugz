@@ -1,4 +1,4 @@
-## Hi there 👋  
+## Welcome to my GitHub! 👋  
 Name: **Reese**  
 
 Year: **Junior, Computer Science** 
