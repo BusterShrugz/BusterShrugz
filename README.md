@@ -1,26 +1,32 @@
 ## Welcome to my GitHub! 👋  
 Name: **Reese**  
 
-Year: **Junior, Computer Science** 
+Year: **Rising Senior, Computer Science** 
 
-Graduating: **2027**
+Graduating: **May, 2027**
 
 ---
 * Well rounded professional with 15+ years of leadership and project management experience, now pursuing a career in full stack Software Engineering.  
 * Ability to thrive under pressure and deliver results within tight deadlines.  
-* Experience with Java, Python, and C++
-* Experience in web design, database management, and Agile team collaboration.  
+* Experience with Java, Python, and some C++
+* Experience in full-stack web design, database management, and Agile team collaboration.  
 * Passionate about innovation, problem-solving, and applying my technical expertise to real-world challenges in aerospace, defense, and cutting-edge technology. 
-* Looking for any research or internship opportunity for Summer of 26'  
----
+* Looking for research or internship opportunity for Summer of 27'
+* Searching for new grad and early career roles in full-stack engineering, and shift left engineering
+---  
+
 ## Current projects:  
 [Spectra Analysis Application](https://github.com/BusterShrugz/spectraApplication)   
-[2D RPG game](https://github.com/BusterShrugz/2D_RPG)  
-[Warhammer 40k RPG -Text Based-](https://github.com/BusterShrugz/RPG_40K_FINAL_TEXT_BASED)
+
 
 ## Finished Projects:  
 [IoT Mobile AiO Medical Station](https://github.com/BusterShrugz/370Project-Nano33IoT)  
-[Personal Portfolio WebSite](https://reeseedens.dev)
+[Personal Portfolio WebSite](https://reeseedens.dev). 
+
+## BackBurner Projects:  
+[2D RPG game](https://github.com/BusterShrugz/2D_RPG)  
+[Warhammer 40k RPG -Text Based-](https://github.com/BusterShrugz/RPG_40K_FINAL_TEXT_BASED)
+
 
 
 <!--
