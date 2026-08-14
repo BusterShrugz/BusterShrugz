@@ -16,7 +16,9 @@ Graduating: **May, 2027**
 ---  
 
 ## Current projects:  
-[Spectra Analysis Application](https://github.com/BusterShrugz/spectraApplication)   
+[Spectra Analysis Application](https://github.com/BusterShrugz/spectraApplication)  
+[Recipe Storage and Manipulation Application](https://github.com/BusterShrugz/MyRecipeApplication) <- hosted off my [Portfolio](https://recipes.reeseedens.dev)
+
 
 
 ## Finished Projects:  
