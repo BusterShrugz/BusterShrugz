@@ -16,9 +16,9 @@ Graduating: **May, 2027**
 ---  
 
 ## Current projects:  
+[IFC Research with Agentic Analysis](https://github.com/BusterShrugz/IFC_AGENTIC_VULNERABILITY_ANALYSIS)  
+[Recipe Storage and Manipulation Application](https://github.com/BusterShrugz/MyRecipeApplication) <- hosted off my [Portfolio](https://recipes.reeseedens.dev)  
 [Spectra Analysis Application](https://github.com/BusterShrugz/spectraApplication)  
-[Recipe Storage and Manipulation Application](https://github.com/BusterShrugz/MyRecipeApplication) <- hosted off my [Portfolio](https://recipes.reeseedens.dev)
-
 
 
 ## Finished Projects:  
